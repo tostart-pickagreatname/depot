@@ -1,5 +1,7 @@
 require 'test_helper'
 
+# test comment in test_branch
+
 class StoreControllerTest < ActionController::TestCase
   test "should get index" do
     get :index
